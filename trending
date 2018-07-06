@@ -1,0 +1,33 @@
+.trending .topics { Font-size: 100%; }
+
+.menu { font-weight: normal;
+font-size: 110%;
+}
+
+
+.main-tabs a, .main-tabs a:visited {
+font-size: 1em;
+}
+
+.topics .trending-title {
+  visibility: hidden;
+}
+.topics .trending-title:before {
+  content: "Topics:";
+  visibility: visible;
+  background: url('https://entomologytoday.org/wp-content/themes/beacon/images/icon-trends.png') no-repeat scroll left center / contain;
+  padding-left: 25px;
+}
+
+
+.topics a:first-of-type {
+  margin-left: -90px
+}
+
+
+@media only screen and (max-width: 310px) {
+  .topics a:first-of-type {
+    margin-left: 0;
+  }
+}
+
