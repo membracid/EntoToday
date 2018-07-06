@@ -1,3 +1,6 @@
+ /* This takes the word "trending" out of Trending Topics, the default for the WP theme Beacon.  */ 
+
+
 .trending .topics { Font-size: 100%; }
 
 .menu { font-weight: normal;
