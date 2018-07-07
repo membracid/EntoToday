@@ -5,7 +5,7 @@ Front Page Excerpts and links for Categories are handled separately; colors rese
 
 .summary-main 
 .summary:nth-of-type(1)
-a.dark:hover {color: blue}
+a.dark:hover {color: #106AB5}
 
 /* 
 Blue (in bee silhouette and “entomology”):
