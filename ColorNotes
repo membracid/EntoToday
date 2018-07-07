@@ -1,6 +1,6 @@
 /* color codes for the site, matched to header logo
 Link and Link Hover set as Blue/Green using WP Customizer
-Front Page Excerpts for Categories are set using:
+Front Page Excerpts and links for Categories are handled separately; colors reset using:
  */ 
 
 .summary-main 
