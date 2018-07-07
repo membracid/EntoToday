@@ -1,18 +1,22 @@
-/* color codes for the site logo */
+/* color codes for the site, matched to header logo
+Link and Link Hover set as Blue/Green using WP Customizer
+Front Page Excerpts for Categories are set using:
+ */ 
 
-Link and Link Hover set  as Blue/Green using WP Customizer
+.summary-main 
+.summary:nth-of-type(1)
+a.dark:hover {color: blue}
 
-
-
+/* 
 Blue (in bee silhouette and “entomology”):
 HTML: #106AB5
  
-Green (in “et” logo and grasshopper silhouette):
+Green (in “ET” logo and grasshopper silhouette):
 HTML: #8CC63F
- 
 
 Gray (in “today”)
 HTML: #666666
  
 Dark Gray (in “brought to you by…”)
 HTML: #2D3236
+ */ 
