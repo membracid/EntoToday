@@ -1,0 +1,12 @@
+.masthead  {background: black
+}
+
+
+/* remove the "most discussed" tab 
+ul.main-tabs li:nth-child(2) {
+    display: none;
+}
+does not change on mobile version, though*/
+
+/*.h1 {font-family: Georgia, serif;} 
+  For some reason does not display outside customizer?? */
